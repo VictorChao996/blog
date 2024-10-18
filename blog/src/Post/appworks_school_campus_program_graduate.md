@@ -6,7 +6,7 @@ lastUpdated: 2023-07-27
 
 # AppWorks School Campus Program #3 結業心得
 
-![Campus Program #3 畢業合照](./img/appworks_school_campus_program_3_graduate.jpg)
+![Campus Program #3 畢業合照](./IMG/appworks_school_campus_program_3_graduate.jpg)
 
 
 大家好，我是 AppWorks School Campus Program #3 的學員 Victor , 畢業於國立中央大學資訊工程學系，職涯初期希望朝 QA Engineer 或 後端的方向努力，目前在等當兵中😅。很榮幸能在這邊與各位讀者分享我在 AppWorks School(以下簡稱 School) 的所學與一些小小的心得。
@@ -58,7 +58,7 @@ Campus Program 學員的位置會在8樓大空間，旁邊就是 School 校務�
 
 
 
-![Cmpaus 學員所在的共同空間(8樓)](./img/appworks_school_learning_space.webp)
+![Cmpaus 學員所在的共同空間(8樓)](./IMG/appworks_school_learning_space.webp)
 *Cmpaus 學員所在的共同空間(8樓)*
 
 ## School 學習過程
@@ -104,10 +104,10 @@ React 前端頁面 (SPA、RWD)
 
 在這邊特別感謝我的兩個神隊友: Erin & Michelle，兼顧學業外還抽出許多時間弄黑客松的開發(聽說熬夜到5點?)，辛苦兩位了。
 
-![當時的兩位神隊友: Erin & Michelle](./img/appworks_school_teammate.webp)
+![當時的兩位神隊友: Erin & Michelle](./IMG/appworks_school_teammate.webp)
 *當時的兩位神隊友: Erin & Michelle*
 
-![讓頭腦風暴一下](./img/appworks_school_dev.webp)
+![讓頭腦風暴一下](./IMG/appworks_school_dev.webp)
 *讓頭腦風暴一下*
 
 ### 4. Practical Exercises 實務練習(2周)
@@ -161,10 +161,10 @@ API test 可以參考這個 repo : https://github.com/VictorChao996/SIT-API-test
 K6 負載測試 : https://github.com/VictorChao996/K6-load-testing
 在這個階段中我最大的收穫就是團隊開發上遇到的困難帶給我的震撼，團隊沒有好的開發規範&磨合的話在開發上會異常的困難，也會間接導致其他的負面效果。如何的確保團隊正常的運作下去真的是高深的學問，經過此次學習，我終於明白為何公司會如此強調企業文化，好的開發團隊也注重建立團隊的氣氛&正確的開發文化。
 
-![活動結束後的反思(team 1)](./img/appworks_school_recap.webp)
+![活動結束後的反思(team 1)](./IMG/appworks_school_recap.webp)
 *活動結束後的反思(team 1)*
 
-![活動結束後的反思(team 2)](./img/appworks_school_recap_2.webp)
+![活動結束後的反思(team 2)](./IMG/appworks_school_recap_2.webp)
 *活動結束後的反思(team 2)*
 
 5. Personal Project 個人專案(3+1周)
@@ -206,7 +206,7 @@ School 這邊不同，導師都是具有業界經驗的(甚至有的還在職)�
 ### 學習與成長
 在 School 學習過程中真的很紮實(沒在騙XD)，直接用最粗暴的方法把我從生活中的低潮給拉出來(事情都做不完了，哪有時間 emo)。雖然每一週都很辛苦，壓力頗大，不過我也在實作的過程中獲得不少成就感，現在往回看真的覺得當初有報名真的是太好了。我得到很多系上不會接觸到的學習經驗，讓我能在進入職場前，一窺軟體工程師的日常。
 
-![企業參訪活動(CloudMile 萬里雲)](./img/appworks_school_company_visit.webp)
+![企業參訪活動(CloudMile 萬里雲)](./IMG/appworks_school_company_visit.webp)
 *企業參訪活動(CloudMile 萬里雲)*
 
 ### 最後
