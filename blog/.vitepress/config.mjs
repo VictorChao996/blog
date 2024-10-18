@@ -35,6 +35,13 @@ export default defineConfig({
 		search: {
 			provider: "local",
 		},
+		lastUpdated: {
+			text: "Updated at",
+			formatOptions: {
+				dateStyle: "full",
+				timeStyle: "medium",
+			},
+		},
 	},
 	base: "/blog/",
 	srcDir: "src",

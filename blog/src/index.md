@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "blog"
-  text: "Victor's blog"
-  tagline: 
+  name: "Victor's blog"
+  # text: "Victor's blog"
+  tagline: peronsal blog
   actions:
     - theme: brand
       text: View Blog Post
