@@ -6,7 +6,7 @@ lastUpdated: 2023-07-27
 
 # AppWorks School Campus Program #3 結業心得
 
-![Campus Program #3 畢業合照](./img/appworks_school_campus_program_3_graduate.jpg)
+![Campus Program #3 畢業合照](./img/appworks_school_campus_program_3_graduate.webp)
 
 
 大家好，我是 AppWorks School Campus Program #3 的學員 Victor , 畢業於國立中央大學資訊工程學系，職涯初期希望朝 QA Engineer 或 後端的方向努力，目前在等當兵中😅。很榮幸能在這邊與各位讀者分享我在 AppWorks School(以下簡稱 School) 的所學與一些小小的心得。
