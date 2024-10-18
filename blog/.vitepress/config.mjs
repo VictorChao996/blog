@@ -36,5 +36,6 @@ export default defineConfig({
 			provider: "local",
 		},
 	},
-	base: "",
+	base: "/blog/",
+	srcDir: "src",
 });
