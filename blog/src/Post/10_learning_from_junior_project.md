@@ -29,7 +29,7 @@ lastUpdated: 2022-07-05
 
 所以提前規劃好各種事情比較不會手忙腳亂。
 
-![圖片: 大三上期末-考試&報告轟炸](Test_and_Homework.jpg)
+![圖片: 大三上期末-考試&報告轟炸](./img/Test_and_Homework.jpg)
 
 
 

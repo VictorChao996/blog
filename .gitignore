@@ -1,5 +1,5 @@
-.vitepress/dist
-.vitepress/cache
-.vitepress/cache/deps/*
-
+blog/.vitepress/dist
+blog/.vitepress/dist/*
+blog/.vitepress/cache
+blog/.vitepress/cache/deps/*
 node_modules
