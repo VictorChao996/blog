@@ -2,6 +2,7 @@
 title: 第八周-複習 JS & 初步認識 AWS
 outline: deep
 lastUpdated: 2023-02-13
+date: 2023-02-13
 ---
 # 第八周-複習 JS & 初步認識 AWS
 

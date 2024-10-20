@@ -2,10 +2,11 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	title: "blog",
+	title: "victor's blog",
 	description: "Victor's blog",
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
+		logo: "/logo.jpeg",
 		nav: [
 			{ text: "Home", link: "/" },
 			{ text: "Post", link: "/Post" },

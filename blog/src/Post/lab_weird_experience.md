@@ -2,6 +2,7 @@
 title: 實驗室趣談
 outline: deep
 lastUpdated: 2023-02-07
+date: 2023-02-07
 ---
 # 實驗室趣談
 

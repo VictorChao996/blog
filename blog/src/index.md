@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "Victor's blog"
-  # text: "Victor's blog"
-  tagline: peronsal blog
+  name: "用文字記錄生活"
+  text: ""
+  tagline: 一個平凡工程師的 blog 
+  image: 
+    src: /logo-round.png
+    alt: logo
   actions:
     - theme: brand
       text: View Blog Post
@@ -22,7 +25,4 @@ hero:
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 #   - title: Feature C
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-

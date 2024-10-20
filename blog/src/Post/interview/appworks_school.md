@@ -2,6 +2,7 @@
 title: AppWorks School Campus Program 面試
 outline: deep
 lastUpdated: 2022-12-11
+date: 2022-12-11
 ---
 
 # AppWorks School Campus Program 面試

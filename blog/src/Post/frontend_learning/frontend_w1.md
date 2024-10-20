@@ -1,7 +1,8 @@
 ---
 title: 第一周-前端學習首月&意外插曲
 outline: deep
-lastUpdated: 2022-12-4
+lastUpdated: 2022-12-04
+date: 2022-12-04
 ---
 # 第一週 - 前端學習首月&意外插曲
 

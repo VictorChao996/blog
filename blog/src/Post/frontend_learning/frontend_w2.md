@@ -2,6 +2,7 @@
 title: 第二周-JavaScript基礎&進階
 outline: deep
 lastUpdated: 2022-12-18
+date: 2022-12-18
 ---
 # 第二周-JavaScript基礎&進階
 ## 挑戰破功?

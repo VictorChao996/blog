@@ -2,6 +2,7 @@
 title: 第五周-JS DOM、PR、GSC
 outline: deep
 lastUpdated: 2023-01-15
+date: 2023-01-15
 ---
 # 第五周-JS DOM、PR、GSC
 ## 前言

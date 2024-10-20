@@ -2,6 +2,7 @@
 title: 書本閱讀系列-首篇
 outline: deep
 lastUpdated: 2022-12-18
+date: 2022-12-18
 ---
 # 書本閱讀系列-首篇
 ## 前言

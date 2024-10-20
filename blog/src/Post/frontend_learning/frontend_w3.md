@@ -2,6 +2,7 @@
 title: 第三周-初探Vue框架
 outline: deep
 lastUpdated: 2022-01-31
+date: 2022-01-31
 ---
 # 第三周-初探Vue框架
 ## 前言

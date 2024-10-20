@@ -2,6 +2,7 @@
 title: 第七周-購買 Udemy Bootcamp 課程
 outline: deep
 lastUpdated: 2023-02-13
+date: 2023-02-13
 ---
 # 第七周-購買 Udemy Bootcamp 課程
 ## 前言

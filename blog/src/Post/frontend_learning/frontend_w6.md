@@ -2,6 +2,7 @@
 title: 第六周-JS事件傳遞委派、貢獻GibHub專案
 outline: deep
 lastUpdated: 2023-01-22
+date: 2023-01-22
 ---
 # 第六周-JS事件傳遞委派、貢獻GibHub專案
 ## 前言

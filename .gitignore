@@ -3,3 +3,4 @@ blog/.vitepress/dist/*
 blog/.vitepress/cache
 blog/.vitepress/cache/deps/*
 node_modules
+.DS_Store

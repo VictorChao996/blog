@@ -2,7 +2,8 @@
   "scripts": {
     "dev": "vitepress dev blog",
     "build": "vitepress build blog",
-    "preview": "vitepress preview blog"
+    "preview": "vitepress preview blog",
+    "updatePostIndex": "echo 'update post index file' && bash ./scripts/updatePostIndex.sh"
   },
   "devDependencies": {
     "vitepress": "^1.4.1",

@@ -2,6 +2,7 @@
 title: 關於大三專題我學到的十件事
 outline: deep
 lastUpdated: 2022-07-05
+date: 2022-07-05
 ---
 # 關於大三專題我學到的十件事
 ## 前言

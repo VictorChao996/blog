@@ -2,6 +2,7 @@
 title: AppWorks School Campus Program 3 結業心得
 outline: deep
 lastUpdated: 2023-07-27
+date: 2023-07-27
 ---
 
 # AppWorks School Campus Program #3 結業心得

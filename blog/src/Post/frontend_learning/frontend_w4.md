@@ -2,6 +2,7 @@
 title: 第四周-vue基礎
 outline: deep
 lastUpdated: 2023-01-08
+date: 2023-01-08
 ---
 # 第四周-vue基礎
 ## 前言
