@@ -43,6 +43,10 @@ export default defineConfig({
 				timeStyle: "medium",
 			},
 		},
+		editLink: {
+			pattern:
+				"https://github.com/VictorChao996/blog/edit/main/blog/src/:path",
+		},
 	},
 	base: "/blog/",
 	srcDir: "src",
