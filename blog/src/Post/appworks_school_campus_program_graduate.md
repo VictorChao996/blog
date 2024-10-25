@@ -7,6 +7,11 @@ date: 2023-07-27
 
 # AppWorks School Campus Program #3 結業心得
 
+::: info
+這篇貼文是文章備份, 原始文章發表在 AppWorks School (現改名 AiWorks) 的Medium 上, https://medium.com/appworks-school/appworks-school-campus-program-3-%E7%B5%90%E6%A5%AD%E5%BF%83%E5%BE%97-e4ccf85247b8
+:::
+
+---
 ![Campus Program #3 畢業合照](./img/appworks_school_campus_program_3_graduate.webp)
 
 
@@ -168,7 +173,7 @@ K6 負載測試 : https://github.com/VictorChao996/K6-load-testing
 ![活動結束後的反思(team 2)](./img/appworks_school_recap_2.webp)
 *活動結束後的反思(team 2)*
 
-5. Personal Project 個人專案(3+1周)
+### 5. Personal Project 個人專案(3+1周)
 到了這邊就是最後一個階段喇，School 會帶著各位學員進行個人專案的發想。而這幾周也有各自的驗收(personal project proposal、Sprint 1~3)，題目不限，想做什麼都可以。不過導師這邊會提供各種意見(施壓)，並追蹤學員們的開發狀況，確保最終成品具備一個完整度。(至少不要有作業感)
 
 在這個階段壓力稍微比較小一點，因為可以照著自己的步調下去開發，合理的安排自己的時間。我覺得這幾周主要的學習重點為:

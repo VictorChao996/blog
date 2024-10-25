@@ -5,6 +5,9 @@ outline: deep
 
 # {{ $frontmatter.title }}
 
+### 2023-11-08
+- [Internship Experience at iKala](job_experience/Internship_experience_at_ikala.md)
+
 ### 2023-07-27
 - [AppWorks School Campus Program 3 結業心得](appworks_school_campus_program_graduate.md)
 
@@ -27,6 +30,9 @@ outline: deep
 ### 2023-01-03
 - [為您挑選最適合的書籍-當書店店長遇上交友網站](reading/1-recommand_a_book_for_you.md)
 
+### 2023-01-01
+- [第三周-初探Vue框架](frontend_learning/frontend_w3.md)
+
 ### 2022-12-31
 - [2022 年度回顧 ＆ 2023 年目標](2022_review_and_2023_goal.md)
 
@@ -45,9 +51,6 @@ outline: deep
 
 ### 2022-07-05
 - [關於大三專題我學到的十件事](10_learning_from_junior_project.md)
-
-### 2022-01-31
-- [第三周-初探Vue框架](frontend_learning/frontend_w3.md)
 
 ### 無日期
 - [api-examples](Archieved/api-examples.md)
