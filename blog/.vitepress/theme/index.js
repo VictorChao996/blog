@@ -4,6 +4,7 @@ import DefaultTheme from "vitepress/theme";
 import "./style.css";
 
 // import PostList from "./components/PostList.vue";
+import GraphView from "./components/GraphView.vue";
 
 /** @type {import('vitepress').Theme} */
 export default {
@@ -16,5 +17,6 @@ export default {
 	enhanceApp({ app, router, siteData }) {
 		// ...
 		// app.component("PostList", PostList);
+		app.component("GraphView", GraphView);
 	},
 };
