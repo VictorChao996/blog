@@ -5,6 +5,7 @@ import "./style.css";
 
 // import PostList from "./components/PostList.vue";
 import GraphView from "./components/GraphView.vue";
+import TimeLineView from "./components/TimeLineView.vue";
 
 /** @type {import('vitepress').Theme} */
 export default {
@@ -18,5 +19,6 @@ export default {
 		// ...
 		// app.component("PostList", PostList);
 		app.component("GraphView", GraphView);
+		app.component("TimeLineView", TimeLineView);
 	},
 };

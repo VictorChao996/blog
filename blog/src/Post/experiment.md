@@ -6,6 +6,7 @@ outline: deep
 底下放一些實驗性前端頁面
 
 - [GraphView Example](./experiment.md#example)
+- [TimelineView Example](./experiment.md#example-1)
 
 ## GraphView
 ### Description: 
@@ -55,3 +56,22 @@ outline: deep
 2. 拖動優化: 可以對著空白處點擊實現整個 graph 畫面移動效果 (camera 位置變換?)
 3. 縮放優化: 可以根據 mouseScroll 放大或縮小整個 graphView
 4. 其他效果....
+
+
+## Timeline view
+
+### Description
+能夠根據 json data 呈現像是里程碑的時間圖
+
+### Usage
+- 更新 `milestoneData.js` 中的 json data
+- `milestoneData.js` 的資料會自動 import 進 `TimeLineView.vue` 中
+- 在 .vitepress 之下的 `index.js` 註冊 TimeLineView.vue component
+- 在任意 .md 中直接使用
+- 在任意 .md 中直接使用
+    ```
+    <TimeLineView />
+    ```
+
+### Example
+<TimeLineView />

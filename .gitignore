@@ -1,6 +1,6 @@
-blog/.vitepress/dist
-blog/.vitepress/dist/*
-blog/.vitepress/cache
-blog/.vitepress/cache/deps/*
+*/.vitepress/dist
+*/.vitepress/dist/*
+*/.vitepress/cache
+*/.vitepress/cache/deps/*
 node_modules
 .DS_Store
