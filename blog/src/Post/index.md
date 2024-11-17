@@ -5,6 +5,22 @@ outline: deep
 
 # {{ $frontmatter.title }}
 
+### 2024-11-17
+- [leetcode practice w2](leetcode_weekly_practice/leetcode_w2.md)
+
+### 2024-11-10
+- [新鮮人工作半年回顧 （上）](job_experience/freshman_firstJob_6_month_experience_1.md)
+- [Leetcode practice w1](leetcode_weekly_practice/leetcode_w1.md)
+
+### 2024-11-03
+- [Blog 搬家了](blog_update/new_blog_site.md)
+
+### 2024-11-02
+- [Leetcode 週練習挑戰](leetcode_weekly_practice/leetcode_weekly_practice.md)
+
+### 2024-10-27
+- [2024 年尾的 6 個月個人 & 職涯目標](2024_6_month_goal.md)
+
 ### 2023-11-08
 - [Internship Experience at iKala](job_experience/Internship_experience_at_ikala.md)
 
@@ -55,4 +71,5 @@ outline: deep
 ### 無日期
 - [api-examples](Archieved/api-examples.md)
 - [markdown-examples](Archieved/markdown-examples.md)
+- [experiment](experiment.md)
 - [index](index.md)

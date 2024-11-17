@@ -1,12 +1,12 @@
 ---
-title: Leetcode w1
+title: Leetcode practice w1
 outline: deep
 date: 2024-11-10
 lastUpdated: true
 timespent (min): 120
 ---
 
-# leetcode w1
+# Leetcode Practice w1
 ## 前言
 再開篇文章 [Leetcode weekly practice](./leetcode_weekly_practice.md) 中有提到說要搭配每週寫的三個題目去寫作分享回顧, 所以這篇文章會是這個週挑戰的第一篇文章。老實說在準備出這個系列文章前就有開始陸續寫一些題目, 但中間有中斷個一兩週, 果然跟開篇文提到的一樣, 有可能連每週寫三題題目的目標都沒達到, 更不用說還要多寫這些文章了。 
 

@@ -6,7 +6,7 @@ git pull
 git add .
 
 # Commit the changes with a message
-git commit -m "update docs"
+git commit -m "update posts"
 
 # Push the changes to the remote repository
 git push

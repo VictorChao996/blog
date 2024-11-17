@@ -50,4 +50,7 @@ export default defineConfig({
 	},
 	base: "/blog/",
 	srcDir: "src",
+	markdown: {
+		math: true,
+	},
 });

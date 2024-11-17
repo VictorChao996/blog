@@ -7,6 +7,7 @@
     "updateGraphData": "echo 'update graph data file' && bash ./scripts/generateGraphData.sh"
   },
   "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
     "vitepress": "^1.4.1",
     "vue": "^3.5.12"
   },
