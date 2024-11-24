@@ -5,6 +5,9 @@ outline: deep
 
 # {{ $frontmatter.title }}
 
+### 2024-11-24
+- [leetcode practice w3](leetcode_weekly_practice/leetcode_w3.md)
+
 ### 2024-11-17
 - [leetcode practice w2](leetcode_weekly_practice/leetcode_w2.md)
 
@@ -16,7 +19,7 @@ outline: deep
 - [Blog 搬家了](blog_update/new_blog_site.md)
 
 ### 2024-11-02
-- [Leetcode 週練習挑戰](leetcode_weekly_practice/leetcode_weekly_practice.md)
+- [Leetcode 週練習挑戰](leetcode_weekly_practice/leetcode_weekly_practice_challenge.md)
 
 ### 2024-10-27
 - [2024 年尾的 6 個月個人 & 職涯目標](2024_6_month_goal.md)

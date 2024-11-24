@@ -22,9 +22,11 @@ lastUpdated: true
 
 總之先 run 個一個月看看, 再看有無需要調整。若後續有新的 update 會再新增到後記中。
 
-
-
 ## Reference
 - https://neetcode.io/practice
 
 
+## Blog Post Update Record
+- [Leetcode practice w1](./leetcode_w1.md)
+- [Leetcode practice w2](./leetcode_w2.md)
+- [Leetcode practice w3](./leetcode_w3.md)

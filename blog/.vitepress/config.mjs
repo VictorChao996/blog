@@ -14,10 +14,14 @@ export default defineConfig({
 
 		// sidebar: [
 		// 	{
-		// 		text: "Examples",
+		// 		text: "Series",
 		// 		items: [
 		// 			{ text: "Markdown Examples", link: "/markdown-examples" },
 		// 			{ text: "Runtime API Examples", link: "/api-examples" },
+		// 			{
+		// 				text: "Leetcode Weekly Practice",
+		// 				link: "Post/leetcode_weekly_practice/leetcode_weekly_practice_challenge",
+		// 			},
 		// 		],
 		// 	},
 		// ],

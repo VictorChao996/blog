@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "用文字記錄生活"
   text: ""
-  tagline: 一個平凡工程師的 blog 
+  tagline: 一個平凡 Engineer 的 blog 
   image: 
     src: /logo-round.png
     alt: logo
