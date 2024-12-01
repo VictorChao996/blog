@@ -10,7 +10,7 @@ timespent: 170
 這週是 leetcode weekly practice 的第二週, 我們延續上週 [leetcode w1](./leetcode_w1.md) 的模式, 一樣來回顧三道題目, 雖說都是 Easy, 不過滿經典的 bit problem 值得來分享下。那一樣直接進入題目環節。
 ## 題目
 
-### 1. Missing Number 
+### Missing Number 
 Leetcode 第 [268 題](https://leetcode.com/problems/missing-number/description/), 以下為原文:
 
 ```txt
@@ -79,7 +79,7 @@ function missing_number(nums){
 
 同樣為 Time: O(n), SpaceL O(1) 還有另外一個解法是使用 Bitwise XOR, 但一般人不太可能自己想到這個解法, 所以就不在這邊分享了, 有興趣的話可以再點[連結](https://github.com/VictorChao996/leetcode/blob/main/268.missing-number/268.missing-number-improve_xor.js)看看參考解。
 
-### 2. Number of 1 Bits
+### Number of 1 Bits
 Leetcode 第 [191 題](https://leetcode.com/problems/number-of-1-bits/description/), 以下為原文：
 ```txt
 Given a positive integer n, write a function that returns the number of 
@@ -119,7 +119,7 @@ function number_of_1_bits(n){
 
 這邊利用短除法求二進制的方法獲取 total, 值得注意的是, 我們不用先轉換成二進制字串後才開始數數, 而是在轉換的過程中就把 total 計算完。 如此一來, 短除法過程走完時, 就已經有 total 結果了。
 
-### 3. Counting Bits
+### Counting Bits
 Leetcode 第 [338 題](https://leetcode.com/problems/counting-bits/description/), 以下為原文
 
 ```txt

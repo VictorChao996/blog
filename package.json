@@ -4,7 +4,8 @@
     "build": "vitepress build blog",
     "preview": "vitepress preview blog",
     "updatePostIndex": "echo 'update post index file' && bash ./scripts/updatePostIndex.sh",
-    "updateGraphData": "echo 'update graph data file' && bash ./scripts/generateGraphData.sh"
+    "updateGraphData": "echo 'update graph data file' && bash ./scripts/generateGraphData.sh",
+    "post": "echo post to GitHub && bash ./scripts/post.sh"
   },
   "devDependencies": {
     "markdown-it-mathjax3": "^4.3.2",
