@@ -1,4 +1,18 @@
 import { defineConfig } from "vitepress";
+// import { RSSOptions, RssPlugin } from "vitepress-plugin-rss";
+import { RssPlugin } from "vitepress-plugin-rss";
+
+//constant
+const CopyrightString = "Copyright © 2024 Victor Zhao";
+
+//NOTE: RSS plugin settings,
+//ref: https://www.npmjs.com/package/vitepress-plugin-rss
+const baseUrl = "https://victorchao996.github.io/blog/";
+const RSS = {
+	title: "Victor's Blog",
+	baseUrl,
+	copyright: CopyrightString,
+};
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -35,7 +49,7 @@ export default defineConfig({
 		],
 		footer: {
 			message: "Released under the MIT License.",
-			copyright: "Copyright © 2024 Victor Zhao",
+			copyright: CopyrightString,
 		},
 		search: {
 			provider: "local",
@@ -56,5 +70,8 @@ export default defineConfig({
 	srcDir: "src",
 	markdown: {
 		math: true,
+	},
+	vite: {
+		plugins: [RssPlugin(RSS)],
 	},
 });
