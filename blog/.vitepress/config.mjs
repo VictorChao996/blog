@@ -7,7 +7,7 @@ const CopyrightString = "Copyright © 2024 Victor Zhao";
 
 //NOTE: RSS plugin settings,
 //ref: https://www.npmjs.com/package/vitepress-plugin-rss
-const baseUrl = "https://victorchao996.github.io/blog";
+const baseUrl = "https://victorchao996.github.io";
 const RSS = {
 	title: "Victor's Blog",
 	baseUrl,
