@@ -263,7 +263,7 @@ function maxiumumDepth(root){
 		}
 		level++;
 	}
-
+	return level;
 }
 ```
 
