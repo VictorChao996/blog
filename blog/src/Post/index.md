@@ -5,6 +5,9 @@ outline: deep
 
 # {{ $frontmatter.title }}
 
+### 2025-01-05
+- [leetcode practice w9](leetcode_weekly_practice/leetcode_w9.md)
+
 ### 2024-12-29
 - [leetcode practice w8](leetcode_weekly_practice/leetcode_w8.md)
 
