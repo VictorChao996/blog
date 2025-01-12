@@ -9,6 +9,10 @@ export const graphData = {
       "name": "2022 年度回顧 ＆ 2023 年目標"
     },
     {
+      "id": "2024_6_month_goal",
+      "name": "2024 年尾的 6 個月個人 & 職涯目標"
+    },
+    {
       "id": "Archieved/api-examples",
       "name": "Archieved/api-examples"
     },
@@ -19,6 +23,10 @@ export const graphData = {
     {
       "id": "appworks_school_campus_program_graduate",
       "name": "AppWorks School Campus Program 3 結業心得"
+    },
+    {
+      "id": "blog_update/new_blog_site",
+      "name": "Blog 搬家了"
     },
     {
       "id": "experiment",
@@ -69,8 +77,56 @@ export const graphData = {
       "name": "Internship Experience at iKala"
     },
     {
+      "id": "job_experience/freshman_firstJob_6_month_experience_1",
+      "name": "新鮮人工作半年回顧 （上）"
+    },
+    {
       "id": "lab_weird_experience",
       "name": "實驗室趣談"
+    },
+    {
+      "id": "leetcode_weekly_practice/leetcode_w1",
+      "name": "Leetcode practice w1"
+    },
+    {
+      "id": "leetcode_weekly_practice/leetcode_w10",
+      "name": "leetcode practice w10"
+    },
+    {
+      "id": "leetcode_weekly_practice/leetcode_w2",
+      "name": "leetcode practice w2"
+    },
+    {
+      "id": "leetcode_weekly_practice/leetcode_w3",
+      "name": "leetcode practice w3"
+    },
+    {
+      "id": "leetcode_weekly_practice/leetcode_w4",
+      "name": "leetcode practice w4"
+    },
+    {
+      "id": "leetcode_weekly_practice/leetcode_w5",
+      "name": "leetcode practice w5"
+    },
+    {
+      "id": "leetcode_weekly_practice/leetcode_w6",
+      "name": "leetcode practice w6"
+    },
+    {
+      "id": "leetcode_weekly_practice/leetcode_w7",
+      "name": "leetcode practice w7"
+    },
+    {
+      "id": "leetcode_weekly_practice/leetcode_w8",
+      "name": "leetcode practice w8"
+    },
+    {
+      "id": "leetcode_weekly_practice/leetcode_w9",
+      "name": "leetcode practice w9"
+    },
+    {
+      "id": "leetcode_weekly_practice/leetcode_weekly_practice_challenge",
+      "name": "Leetcode 週練習挑戰"
     },
     {
       "id": "reading/1-recommand_a_book_for_you",
@@ -83,8 +139,72 @@ export const graphData = {
   ],
   "links": [
     {
+      "source": "2024_6_month_goal",
+      "target": "2022_review_and_2023_goal"
+    },
+    {
+      "source": "blog_update/new_blog_site",
+      "target": "2024_6_month_goal"
+    },
+    {
+      "source": "blog_update/new_blog_site",
+      "target": "2022_review_and_2023_goal"
+    },
+    {
+      "source": "blog_update/new_blog_site",
+      "target": "2024_6_month_goal"
+    },
+    {
+      "source": "job_experience/freshman_firstJob_6_month_experience_1",
+      "target": "2024_6_month_goal"
+    },
+    {
+      "source": "job_experience/freshman_firstJob_6_month_experience_1",
+      "target": "appworks_school_campus_program_graduate"
+    },
+    {
+      "source": "job_experience/freshman_firstJob_6_month_experience_1",
+      "target": "job_experience/Internship_experience_at_ikala"
+    },
+    {
       "source": "lab_weird_experience",
       "target": "10_learning_from_junior_project"
+    },
+    {
+      "source": "leetcode_weekly_practice/leetcode_w1",
+      "target": "leetcode_weekly_practice/leetcode_weekly_practice_challenge"
+    },
+    {
+      "source": "leetcode_weekly_practice/leetcode_w10",
+      "target": "leetcode_weekly_practice/leetcode_w9"
+    },
+    {
+      "source": "leetcode_weekly_practice/leetcode_w2",
+      "target": "leetcode_weekly_practice/leetcode_w1"
+    },
+    {
+      "source": "leetcode_weekly_practice/leetcode_w6",
+      "target": "2024_6_month_goal"
+    },
+    {
+      "source": "leetcode_weekly_practice/leetcode_w8",
+      "target": "2024_6_month_goal"
+    },
+    {
+      "source": "leetcode_weekly_practice/leetcode_weekly_practice_challenge",
+      "target": "2024_6_month_goal"
+    },
+    {
+      "source": "leetcode_weekly_practice/leetcode_weekly_practice_challenge",
+      "target": "leetcode_weekly_practice/leetcode_w1"
+    },
+    {
+      "source": "leetcode_weekly_practice/leetcode_weekly_practice_challenge",
+      "target": "leetcode_weekly_practice/leetcode_w2"
+    },
+    {
+      "source": "leetcode_weekly_practice/leetcode_weekly_practice_challenge",
+      "target": "leetcode_weekly_practice/leetcode_w3"
     }
   ]
 };
