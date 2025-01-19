@@ -93,6 +93,10 @@ export const graphData = {
       "name": "leetcode practice w10"
     },
     {
+      "id": "leetcode_weekly_practice/leetcode_w11",
+      "name": "leetcode practice w11"
+    },
+    {
       "id": "leetcode_weekly_practice/leetcode_w2",
       "name": "leetcode practice w2"
     },
