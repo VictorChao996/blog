@@ -5,6 +5,9 @@ outline: deep
 
 # {{ $frontmatter.title }}
 
+### 2025-02-02
+- [2024年尾六個月個人目標執行回顧](2024_6_month_goal_half_review.md)
+
 ### 2025-01-19
 - [leetcode practice w11](leetcode_weekly_practice/leetcode_w11.md)
 

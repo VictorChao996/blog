@@ -13,6 +13,10 @@ export const graphData = {
       "name": "2024 年尾的 6 個月個人 & 職涯目標"
     },
     {
+      "id": "2024_6_month_goal_half_review",
+      "name": "2024年尾六個月個人目標執行回顧"
+    },
+    {
       "id": "Archieved/api-examples",
       "name": "Archieved/api-examples"
     },
@@ -145,6 +149,22 @@ export const graphData = {
     {
       "source": "2024_6_month_goal",
       "target": "2022_review_and_2023_goal"
+    },
+    {
+      "source": "2024_6_month_goal_half_review",
+      "target": "2024_6_month_goal"
+    },
+    {
+      "source": "2024_6_month_goal_half_review",
+      "target": "2024_6_month_goal"
+    },
+    {
+      "source": "2024_6_month_goal_half_review",
+      "target": "leetcode_weekly_practice/leetcode_weekly_practice_challenge"
+    },
+    {
+      "source": "2024_6_month_goal_half_review",
+      "target": "2024_6_month_goal"
     },
     {
       "source": "blog_update/new_blog_site",
